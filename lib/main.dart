@@ -25,7 +25,7 @@ class HomePage extends StatelessWidget {
             color: Colors.teal,
             gradient: LinearGradient(colors: [
               Colors.red,
-              Colors.pink,
+              Colors.yellow,
             ]),
           ),
           child: Text("I am a Box"),
